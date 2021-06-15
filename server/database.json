@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Adam Carter",
+      "description": "Unilogic",
+      "email": "adam.carter@unilogic.com",
+      "dob": "1978",
+      "address": "83 Warner Street",
+      "city": "Boston",
+      "price": 23
+    },
+    {
+      "id": 2,
+      "name": "kamran",
+      "description": "Unilogic",
+      "email": "adam.carter@unilogic.com",
+      "dob": "1978",
+      "address": "83 Warner Street",
+      "city": "Boston",
+      "price": 23
+    },
+    {
+      "id": 3,
+      "name": "junaid",
+      "description": "Unilogic",
+      "email": "adam.carter@unilogic.com",
+      "dob": "1978",
+      "address": "83 Warner Street",
+      "city": "Boston",
+      "price": 23
+    },
+    {
+      "id": 4,
+      "name": "ahmad",
+      "description": "Unilogic",
+      "email": "adam.carter@unilogic.com",
+      "dob": "1978",
+      "address": "83 Warner Street",
+      "city": "Boston",
+      "price": 23
+    }
+  ]
+}
